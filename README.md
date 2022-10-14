@@ -1,4 +1,11 @@
-### <h1> Ola me chamo Silas Rafael, sou um microempreendendor que esta iniciando seus estudos na Programação. </h1>
+### <h1> Ola me chamo Silas Rafael...</h1>
+
+<h3>Sou um microempreendendor que esta iniciando seus estudos na Programação. </h3>
+
+- Estuando Desenvolvimento Web no curso ProgramadorBR full stack.
+- Participei da primeira fase do CWI-Reset, onde tive introdução a QA.
+
+[Aqui](https://creative-elf-950a98.netlify.app) você encontra meus contatos.
 
 ##
 
@@ -11,14 +18,3 @@
 <!--
 **SilasRSSimoes/SilasRSSimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
